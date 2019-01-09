@@ -1,0 +1,5 @@
+var userFirstName = prompt("What is your First name?")
+var userLastName = prompt("What is your Last name?")
+var userAge = prompt("What is your age?")
+console.log("User full name is "+userFirstName+ " " + userLastName)
+console.log("User age is "+userAge)
